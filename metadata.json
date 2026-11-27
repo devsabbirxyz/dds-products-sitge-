@@ -1,0 +1,6 @@
+{
+  "name": "DDS-Digital — প্রিমিয়াম ডিজিটাল প্রোডাক্ট মার্কেটপ্লেস",
+  "description": "বাংলাদেশের বিশ্বস্ত ডিজিটাল প্রোডাক্ট মার্কেটপ্লেস — তাৎক্ষণিক ডেলিভারি ও বিকাশ/নগদ পেমেন্ট সাপোর্ট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
